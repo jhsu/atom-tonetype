@@ -1,7 +1,7 @@
 {
   "name": "tonetype",
   "main": "./lib/tonetype",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "music while typing",
   "keywords": ["atom", "music"],
   "activationCommands": {
