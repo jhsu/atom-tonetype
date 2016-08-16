@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tonetype",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "tonetype:toggle"
+            },
+            {
+              "label": "Deactivate",
+              "command": "tonetype:deactivate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

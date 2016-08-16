@@ -1,0 +1,19 @@
+{
+  "name": "tonetype",
+  "main": "./lib/tonetype",
+  "version": "0.0.0",
+  "description": "music while typing",
+  "keywords": ["atom", "music"],
+  "activationCommands": {
+    "atom-workspace": "tonetype:toggle",
+    "atom-workspace": "tonetype:deactivate"
+  },
+  "repository": "https://github.com/jhsu/tonetype",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "tinymusic": "^1.0.0"
+  }
+}
