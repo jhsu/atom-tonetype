@@ -1,9 +1,12 @@
 {
   "name": "tonetype",
   "main": "./lib/tonetype",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "music while typing",
-  "keywords": ["atom", "music"],
+  "keywords": [
+    "atom",
+    "music"
+  ],
   "activationCommands": {
     "atom-workspace": "tonetype:toggle"
   },
