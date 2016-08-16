@@ -5,8 +5,7 @@
   "description": "music while typing",
   "keywords": ["atom", "music"],
   "activationCommands": {
-    "atom-workspace": "tonetype:toggle",
-    "atom-workspace": "tonetype:deactivate"
+    "atom-workspace": "tonetype:toggle"
   },
   "repository": "https://github.com/jhsu/tonetype",
   "license": "MIT",

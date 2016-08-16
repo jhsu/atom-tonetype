@@ -1,6 +1,4 @@
 {
   "atom-workspace": {
-    "ctrl-alt-p": "tonetype:toggle",
-    "ctrl-alt-o": "tonetype:deactivate"
   }
 }
