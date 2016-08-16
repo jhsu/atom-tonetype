@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "tonetype:toggle"
   },
-  "repository": "https://github.com/jhsu/tonetype",
+  "repository": "https://github.com/jhsu/atom-tonetype",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
